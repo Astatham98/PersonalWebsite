@@ -1,5 +1,4 @@
 .idea/
-build/
 *.pyc
-__pycache__/main.cpython-37.pyc
+__pycache__/
 .idea/workspace.xml
