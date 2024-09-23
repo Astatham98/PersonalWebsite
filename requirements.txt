@@ -1,5 +1,5 @@
 Click
-Flask==2.3.2
+Flask
 Frozen-Flask
 itsdangerous
 Jinja2
